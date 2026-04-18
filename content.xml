@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604181329149USNF6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260418132914YRKJLX</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>“CONCRECCIÓN CURRICULAR de la SdA” (Guía docente)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Se centra en la n-Deklination y el Futur I.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Urko Fabricio Fernández Astaburuga</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>&quot;Recurso Educativo Abierto (REA) diseñado para el alumnado de Alemán Nivel Intermedio B1.1 de la Escuela Oficial de Idiomas, basado en la Unidad 6 del manual Netzwerk neu B1.1.
+
+Esta Situación de Aprendizaje, titulada &apos;Zukunft und Arbeitswelt&apos;, integra el desarrollo de competencias comunicativas con el uso de herramientas digitales avanzadas. El alumnado explorará las tendencias del mercado laboral futuro y las competencias profesionales del siglo XXI, practicando estructuras gramaticales clave como el Futur I (predicciones y planes) y la n-Deklination.
+
+Como productos finales, el alumnado elaborará una infografía interactiva y un podcast, fomentando la creatividad, el trabajo colaborativo y la alfabetización mediática. El recurso está diseñado bajo los principios del DUA y alineado con los Objetivos de Desarrollo Sostenible (ODS 4 y 8).&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>de</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776502631332</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo43sr5n-gdyobgisb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Concreción curricular de la SdA para Alemán B1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Concreción curricular de la SdA para Alemán B1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Concreción curricular de la SdA para Alemán B1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5n-gdyobgisb</odePageId>
+      <odeBlockId>block-1776198814072-ira9f64yx</odeBlockId>
+      <blockName>Distribución y organización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5n-gdyobgisb</odePageId>
+          <odeBlockId>block-1776198814072-ira9f64yx</odeBlockId>
+          <odeIdeviceId>idevice-1776198813969-nv3s0pn8a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Etapa educativa y nivel</strong>: Escuela Oficial de Idiomas (EOI) y nivel Intermedio B1 (específicamente B1.1).</p>
+<p><strong>Áreas, materias y/o módulos</strong>: Alemán como Lengua Extranjera (Unidad 6: Zukunft und Arbeitswelt).</p>
+<p><strong>Agrupamientos y organización espacia</strong>l: * Individual: Para la investigación previa y reflexión personal.</p>
+<ul style="list-style-type: circle;">
+<li>Parejas: Para entrevistas simuladas y corrección mutua.</li>
+<li>Pequeño grupo (4 personas): Para el debate y la creación de los productos digitales.</li>
+<li>Espacio: Aula polivalente con disposición de mesas móviles para facilitar la transición entre el trabajo individual y cooperativo.</li>
+</ul>
+<p><strong>Temporalización</strong>: 8 sesiones de 120 minutos cada una (total: 16 horas lectivas).</p>
+<p><strong>Productos desarrollados por el alumnado</strong>:</p>
+<p>1.      Infografía Interactiva (Obligatorio): "Berufe der Zukunft" (Profesiones del futuro). Será creada con Genially o Canva e incluirá puntos de información desplegables sobre competencias y el uso del Futur I.</p>
+<p>2.      El Podacast elegido es <em>Mein Berufsleben im Jahr 2030</em>. Grabación de audio donde el alumnado entrevista a un "compañero del futuro", aplicando la n-Deklination y estructuras de predicción.</p>
+<p><strong>Herramientas tecnológicas y recursos</strong>:</p>
+<ul style="list-style-type: circle;">
+<li>Para el docente: Plataforma eXelearning para la guía, Google Classroom, proyector y panel interactivo.</li>
+<li>Para el alumnado: Canva o Genially (infografía), Audacity o Spotify for Podcasters (podcast), y el portal de empleo de la Agentur für Arbeit para investigación.</li>
+<li>Recursos complementarios: Canal de YouTube Easy German (sección laboral) y diccionarios online (PONS / LEO).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776198813969-nv3s0pn8a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Etapa educativa y nivel</strong>: Escuela Oficial de Idiomas (EOI) y nivel Intermedio B1 (específicamente B1.1).</p>\n<p><strong>Áreas, materias y/o módulos</strong>: Alemán como Lengua Extranjera (Unidad 6: Zukunft und Arbeitswelt).</p>\n<p><strong>Agrupamientos y organización espacia</strong>l: * Individual: Para la investigación previa y reflexión personal.</p>\n<ul style=\"list-style-type: circle;\">\n<li>Parejas: Para entrevistas simuladas y corrección mutua.</li>\n<li>Pequeño grupo (4 personas): Para el debate y la creación de los productos digitales.</li>\n<li>Espacio: Aula polivalente con disposición de mesas móviles para facilitar la transición entre el trabajo individual y cooperativo.</li>\n</ul>\n<p><strong>Temporalización</strong>: 8 sesiones de 120 minutos cada una (total: 16 horas lectivas).</p>\n<p><strong>Productos desarrollados por el alumnado</strong>:</p>\n<p>1.      Infografía Interactiva (Obligatorio): \"Berufe der Zukunft\" (Profesiones del futuro). Será creada con Genially o Canva e incluirá puntos de información desplegables sobre competencias y el uso del Futur I.</p>\n<p>2.      El Podacast elegido es <em>Mein Berufsleben im Jahr 2030</em>. Grabación de audio donde el alumnado entrevista a un \"compañero del futuro\", aplicando la n-Deklination y estructuras de predicción.</p>\n<p><strong>Herramientas tecnológicas y recursos</strong>:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Para el docente: Plataforma eXelearning para la guía, Google Classroom, proyector y panel interactivo.</li>\n<li>Para el alumnado: Canva o Genially (infografía), Audacity o Spotify for Podcasters (podcast), y el portal de empleo de la Agentur für Arbeit para investigación.</li>\n<li>Recursos complementarios: Canal de YouTube Easy German (sección laboral) y diccionarios online (PONS / LEO).</li>\n</ul>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5q-0lyfs955k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5q-0lyfs955k</odePageId>
+      <odeBlockId>block-1776511351792-n6itwsl6z</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5q-0lyfs955k</odePageId>
+          <odeBlockId>block-1776511351792-n6itwsl6z</odeBlockId>
+          <odeIdeviceId>idevice-1776511351790-7wm1yb03j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En un mundo laboral cambiante, el alumnado necesita expresar sus planes y predicciones con seguridad. Esta SdA busca empoderar al alumnado para que proyecte su carrera profesional en lengua alemana.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776511351790-7wm1yb03j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En un mundo laboral cambiante, el alumnado necesita expresar sus planes y predicciones con seguridad. Esta SdA busca empoderar al alumnado para que proyecte su carrera profesional en lengua alemana.</p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5r-f5bpael5t</odePageId>
+  <odeParentPageId>page-mo43sr5q-0lyfs955k</odeParentPageId>
+  <pageName>A. Justificación de su desarrollo y el impacto esperado:</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A. Justificación de su desarrollo y el impacto esperado:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A. Justificación de su desarrollo y el impacto esperado:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>A. Justificación de su desarrollo y el impacto esperado:</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5r-f5bpael5t</odePageId>
+      <odeBlockId>block-1776195544428-eofhj1fwq</odeBlockId>
+      <blockName>Desarrollo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5r-f5bpael5t</odePageId>
+          <odeBlockId>block-1776195544428-eofhj1fwq</odeBlockId>
+          <odeIdeviceId>idevice-1776195544426-qx2ycmy1l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El desarrollo de esta SdA se justifica por la necesidad del alumnado de nivel B1 de adquirir autonomía comunicativa en contextos profesionales y de planificación personal. El impacto esperado es que el alumnado sea capaz de realizar predicciones coherentes sobre el mercado laboral y describir perfiles profesionales complejos, integrando la precisión gramatical (n-Deklination) con la fluidez necesaria para interactuar en entornos de trabajo reales. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776195544426-qx2ycmy1l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El desarrollo de esta SdA se justifica por la necesidad del alumnado de nivel B1 de adquirir autonomía comunicativa en contextos profesionales y de planificación personal. El impacto esperado es que el alumnado sea capaz de realizar predicciones coherentes sobre el mercado laboral y describir perfiles profesionales complejos, integrando la precisión gramatical (n-Deklination) con la fluidez necesaria para interactuar en entornos de trabajo reales. </p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5s-1izgg112p</odePageId>
+  <odeParentPageId>page-mo43sr5q-0lyfs955k</odeParentPageId>
+  <pageName>B. Relación de la SdA con los ODS y Retos del siglo XXI</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>B. Relación de la SdA con los ODS y Retos del siglo XXI</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>B. Relación de la SdA con los ODS y Retos del siglo XXI</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>B. Relación de la SdA con los ODS y Retos del siglo XXI</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5s-1izgg112p</odePageId>
+      <odeBlockId>block-1776195644083-kpi5xaci5</odeBlockId>
+      <blockName>Propuesta realizada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5s-1izgg112p</odePageId>
+          <odeBlockId>block-1776195644083-kpi5xaci5</odeBlockId>
+          <odeIdeviceId>idevice-1776195644061-p1of27swe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta propuesta se alinea directamente con el ODS 4 (Educación de Calidad) y el ODS 8 (Trabajo Decente y Crecimiento Económico) al fomentar la reflexión sobre la formación continua y la evolución de las profesiones. Responde al reto del siglo XXI de la alfabetización digital y mediática mediante la creación de contenidos multimodales. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776195644061-p1of27swe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta propuesta se alinea directamente con el ODS 4 (Educación de Calidad) y el ODS 8 (Trabajo Decente y Crecimiento Económico) al fomentar la reflexión sobre la formación continua y la evolución de las profesiones. Responde al reto del siglo XXI de la alfabetización digital y mediática mediante la creación de contenidos multimodales. </p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5s-b4lt8mew1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares (Nivel B1)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares (Nivel B1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares (Nivel B1)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Elementos curriculares (Nivel B1)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5s-b4lt8mew1</odePageId>
+      <odeBlockId>block-1776197836941-no7e9bwta</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5s-b4lt8mew1</odePageId>
+          <odeBlockId>block-1776197836941-no7e9bwta</odeBlockId>
+          <odeIdeviceId>idevice-1776197836931-960yvln85</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado detallamos los objetivos oficiales del nivel B1 para esta unidad. Aquí explicamos qué competencias trabajará el alumnado, los contenidos que aprenderán (como el futuro y el vocabulario laboral) y qué criterios usaremos para evaluar su progreso. Todo el diseño sigue la programación actual de nuestra escuela.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776197836931-960yvln85","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado detallamos los objetivos oficiales del nivel B1 para esta unidad. Aquí explicamos qué competencias trabajará el alumnado, los contenidos que aprenderán (como el futuro y el vocabulario laboral) y qué criterios usaremos para evaluar su progreso. Todo el diseño sigue la programación actual de nuestra escuela.</p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5t-n4sjqroua</odePageId>
+  <odeParentPageId>page-mo43sr5s-b4lt8mew1</odeParentPageId>
+  <pageName>A. Competencias clave (Descriptores operativos):</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A. Competencias clave (Descriptores operativos):</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>A. Competencias clave (Descriptores operativos):</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5t-n4sjqroua</odePageId>
+      <odeBlockId>block-1776195717545-t63e8l4my</odeBlockId>
+      <blockName>Explicación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5t-n4sjqroua</odePageId>
+          <odeBlockId>block-1776195717545-t63e8l4my</odeBlockId>
+          <odeIdeviceId>idevice-1776195717533-mlrptdbsc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CP1, CP2: competencia plurilingüe para utilizar el alemán en situaciones de previsión futura.</p>
+<p>CD2: competencia digital mediante la creación de infografías y podcasts.</p>
+<p>CPSAA3: competencia personal, social y de aprender a aprender al gestionar el propio aprendizaje lingüístico</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776195717533-mlrptdbsc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CP1, CP2: competencia plurilingüe para utilizar el alemán en situaciones de previsión futura.</p>\n<p>CD2: competencia digital mediante la creación de infografías y podcasts.</p>\n<p>CPSAA3: competencia personal, social y de aprender a aprender al gestionar el propio aprendizaje lingüístico</p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5u-uwvo8a2rg</odePageId>
+  <odeParentPageId>page-mo43sr5s-b4lt8mew1</odeParentPageId>
+  <pageName>B. Competencias específicas:</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>B. Competencias específicas:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>B. Competencias específicas:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5u-uwvo8a2rg</odePageId>
+      <odeBlockId>block-1776195818574-ir11xqhbq</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5u-uwvo8a2rg</odePageId>
+          <odeBlockId>block-1776195818574-ir11xqhbq</odeBlockId>
+          <odeIdeviceId>idevice-1776195818572-j6lcveuo8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CE 1 (Comprender): el objetivo es comprender ideas principales en textos claros sobre temas laborales.</p>
+<p>CE 2 (Producir): producir textos orales y escritos claros y bien estructurados sobre planes y predicciones.</p>
+<p>CE 5 (Mediación): mediar/dar información relevante sobre perfiles profesionales entre distintas personas. y, por lo tanto, siempre de manera objetiva.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776195818572-j6lcveuo8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CE 1 (Comprender): el objetivo es comprender ideas principales en textos claros sobre temas laborales.</p>\n<p>CE 2 (Producir): producir textos orales y escritos claros y bien estructurados sobre planes y predicciones.</p>\n<p>CE 5 (Mediación): mediar/dar información relevante sobre perfiles profesionales entre distintas personas. y, por lo tanto, siempre de manera objetiva.</p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5u-y20iv7qom</odePageId>
+  <odeParentPageId>page-mo43sr5s-b4lt8mew1</odeParentPageId>
+  <pageName>C. Saberes Básicos:</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>C. Saberes Básicos:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>C. Saberes Básicos:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5u-y20iv7qom</odePageId>
+      <odeBlockId>block-1776196259048-bo90vaqj8</odeBlockId>
+      <blockName>Contenido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5u-y20iv7qom</odePageId>
+          <odeBlockId>block-1776196259048-bo90vaqj8</odeBlockId>
+          <odeIdeviceId>idevice-1776196259039-ii7ae0kvj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Gramática: uso del Futur I para expresar intención y probabilidad; declinación débil de los sustantivos masculinos (n-Deklination) en sus diferentes casos.</p>
+<p>Léxico: vocabulario específico sobre el mundo del trabajo, profesiones emergentes, competencias profesionales y procesos de selección.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776196259039-ii7ae0kvj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Gramática: uso del Futur I para expresar intención y probabilidad; declinación débil de los sustantivos masculinos (n-Deklination) en sus diferentes casos.</p>\n<p>Léxico: vocabulario específico sobre el mundo del trabajo, profesiones emergentes, competencias profesionales y procesos de selección.</p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5u-55ulo85rn</odePageId>
+  <odeParentPageId>page-mo43sr5s-b4lt8mew1</odeParentPageId>
+  <pageName>D. Criterios de evaluación:</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>D. Criterios de evaluación:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>D. Criterios de evaluación:</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5u-55ulo85rn</odePageId>
+      <odeBlockId>block-1776196298682-j05n3ftvr</odeBlockId>
+      <blockName>Resumen de la rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5u-55ulo85rn</odePageId>
+          <odeBlockId>block-1776196298682-j05n3ftvr</odeBlockId>
+          <odeIdeviceId>idevice-1776196298679-hlje5pxug</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1.1. (CE 1): Identifica la información relevante en presentaciones sobre el futuro profesional.</p>
+<p>2.1. (CE 2): Produce textos orales claros sobre proyectos futuros empleando el Futur I con corrección.</p>
+<p>2.2. (CE 2): Organiza la información en soportes visuales (infografías) con precisión léxica y gramatical.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776196298679-hlje5pxug","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1.1. (CE 1): Identifica la información relevante en presentaciones sobre el futuro profesional.</p>\n<p>2.1. (CE 2): Produce textos orales claros sobre proyectos futuros empleando el Futur I con corrección.</p>\n<p>2.2. (CE 2): Organiza la información en soportes visuales (infografías) con precisión léxica y gramatical.</p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5v-kvo9teu2c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5v-kvo9teu2c</odePageId>
+      <odeBlockId>block-1776111653624-majgyoeiv</odeBlockId>
+      <blockName>Aprendizaje Basado en Proyectos (ABP).</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5v-kvo9teu2c</odePageId>
+          <odeBlockId>block-1776111653624-majgyoeiv</odeBlockId>
+          <odeIdeviceId>idevice-1776111653623-5yo4z26gv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El alumnado debe resolver el reto de crear una guía visual y sonora sobre las profesiones del futuro, lo que fomenta la investigación, la colaboración y la aplicación práctica de los conocimientos lingüísticos en un producto final tangible.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776111653623-5yo4z26gv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado debe resolver el reto de crear una guía visual y sonora sobre las profesiones del futuro, lo que fomenta la investigación, la colaboración y la aplicación práctica de los conocimientos lingüísticos en un producto final tangible.</p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5v-r9ejnnj0n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas  del centro </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas  del centro </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas  del centro </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5v-r9ejnnj0n</odePageId>
+      <odeBlockId>block-1776511721761-ydow2sn2c</odeBlockId>
+      <blockName>Objetivo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5v-r9ejnnj0n</odePageId>
+          <odeBlockId>block-1776511721761-ydow2sn2c</odeBlockId>
+          <odeIdeviceId>idevice-1776511721761-gffkl8y6a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vinculado al Proyecto de Orientación Profesional de la EOI y al uso de herramientas digitales del centro.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776511721761-gffkl8y6a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vinculado al Proyecto de Orientación Profesional de la EOI y al uso de herramientas digitales del centro.</p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5w-0wl76014m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5w-0wl76014m</odePageId>
+      <odeBlockId>block-1776196453958-2ucy7374r</odeBlockId>
+      <blockName>Desarrollo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5w-0wl76014m</odePageId>
+          <odeBlockId>block-1776196453958-2ucy7374r</odeBlockId>
+          <odeIdeviceId>idevice-1776196453957-b26t8yfmw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>LinkedIn" del Aula (Muro Virtual): consiste en crear un Padlet o un tablón físico en el pasillo de la escuela que simule una red social profesional.</p>
+<p>Cápsula del Tiempo Digital, en el que el alumnado graba un vídeo de 30 segundos (una posibilidad en Teams con el programa Flip) dirigiéndose a su "yo" del futuro, diciéndole dónde cree que estará y qué habrá conseguido profesionalmente en un año</p>
+<p>Feria Virtual de las Profesiones: exposición de las infografías interactivas en el blog o panel digital de la escuela para que otros niveles puedan consultarlas.</p>
+<p>Charla con profesionales: encuentro virtual con antiguos alumnos de la escuela que actualmente trabajen en países de habla alemana para compartir su experiencia sobre el terreno.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776196453957-b26t8yfmw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>LinkedIn\" del Aula (Muro Virtual): consiste en crear un Padlet o un tablón físico en el pasillo de la escuela que simule una red social profesional.</p>\n<p>Cápsula del Tiempo Digital, en el que el alumnado graba un vídeo de 30 segundos (una posibilidad en Teams con el programa Flip) dirigiéndose a su \"yo\" del futuro, diciéndole dónde cree que estará y qué habrá conseguido profesionalmente en un año</p>\n<p>Feria Virtual de las Profesiones: exposición de las infografías interactivas en el blog o panel digital de la escuela para que otros niveles puedan consultarlas.</p>\n<p>Charla con profesionales: encuentro virtual con antiguos alumnos de la escuela que actualmente trabajen en países de habla alemana para compartir su experiencia sobre el terreno.</p>\n<p></p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo43sr5x-axutc8qt8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y descarga del eXe</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga del eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Descarga del eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y descarga del eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo43sr5x-axutc8qt8</odePageId>
+      <odeBlockId>block-1776502121548-gw27k8zw7</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5x-axutc8qt8</odePageId>
+          <odeBlockId>block-1776502121548-gw27k8zw7</odeBlockId>
+          <odeIdeviceId>idevice-1776502121541-lpz4hn9s2</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Allgemeine Informationen zu dieser Bildungsressource</caption>
+<tbody>
+<tr>
+<th>Titel</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">“CONCRECCIÓN CURRICULAR de la SdA” (Guía docente)</span></td>
+</tr>
+<tr>
+<th>Beschreibung</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">"Recurso Educativo Abierto (REA) diseñado para el alumnado de Alemán Nivel Intermedio B1.1 de la Escuela Oficial de Idiomas, basado en la Unidad 6 del manual Netzwerk neu B1.1.
+
+Esta Situación de Aprendizaje, titulada 'Zukunft und Arbeitswelt', integra el desarrollo de competencias comunicativas con el uso de herramientas digitales avanzadas. El alumnado explorará las tendencias del mercado laboral futuro y las competencias profesionales del siglo XXI, practicando estructuras gramaticales clave como el Futur I (predicciones y planes) y la n-Deklination.
+
+Como productos finales, el alumnado elaborará una infografía interactiva y un podcast, fomentando la creatividad, el trabajo colaborativo y la alfabetización mediática. El recurso está diseñado bajo los principios del DUA y alineado con los Objetivos de Desarrollo Sostenible (ODS 4 y 8)."</span></td>
+</tr>
+<tr>
+<th>Urheberschaft</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Urko Fabricio Fernández Astaburuga</span></td>
+</tr>
+<tr>
+<th>Lizenz</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Dieser Inhalt wurde mit <a href="https://exelearning.net/">eXeLearning</a> erstellt, Ihrem kostenlosen und quelloffenen Editor zur Erstellung von Bildungsressourcen.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descarga el fichero .elp</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo43sr5x-axutc8qt8</odePageId>
+      <odeBlockId>block-1776502737933-da4bmwify</odeBlockId>
+      <blockName>Licencia Creative Commons</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo43sr5x-axutc8qt8</odePageId>
+          <odeBlockId>block-1776502737933-da4bmwify</odeBlockId>
+          <odeIdeviceId>idevice-1776502737931-ojdjdvinl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0_1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776502737931-ojdjdvinl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" /></p>","textFeedbackInput":"Feedback anzeigen","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mo43sr5x-axutc8qt8</odePageId>
+      <odeBlockId>block-1776502917248-0sepumyeq</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
